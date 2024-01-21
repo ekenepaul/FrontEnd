@@ -1,0 +1,74 @@
+*{
+    margin: 15px;
+    padding: .7px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    background-color: #a2a2a2;
+    width: 102%;
+    height: 110%;
+}
+
+
+
+.navbar {
+    position: relative;
+    height: 15vh;
+    display: flex;
+}
+.logo {
+    position: absolute;
+    left: 5px;
+    font-size: xx-large;
+}
+.header {
+    position: absolute;
+    right: 30px;
+    display: flex;
+}
+
+
+
+.Hello {
+    position: relative;
+    height: 60vh;
+}
+.main-page {
+    position: absolute;
+    left: 150px;
+    margin-top: 135px;
+}
+.img {
+    position: absolute;
+    right:490px;
+    align-items: center;
+}
+.social {
+    position: absolute;
+    right: 5px;
+}
+
+
+
+.footer {
+    position: relative;
+    background-color: rgb(30, 30, 30);
+    height: 13vh;
+    max-width: 100%;
+    margin: 0px;
+    margin-right: 0px;
+}
+.foot-ter {
+    position: absolute;
+    text-decoration: none;
+    text-transform: lowercase;
+    font-size: large;
+}
+.foot-ter p {
+    color: azure;
+    text-decoration: none;
+}
+.foot-ter a {
+    color: whitesmoke;
+}

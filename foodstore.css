@@ -1,0 +1,121 @@
+* {
+    margin: -0.5px;
+    padding: -0.5px;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #151c72;
+    width: 100%;
+}
+
+
+.top-of-page {
+    position: relative;
+    /* background-color: #ad3646; */
+    opacity: 0.3;
+    background-image: url("https://ultimarestaurant.com/wp-content/uploads/2020/06/DSC_9919-1536x1024.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    height: 50vh;
+    width: 105%;
+}
+.logo {
+    position: absolute;
+    padding-left: 50%;
+    padding-top: 5%;
+    opacity: 1
+}
+
+
+
+.nav {
+    position: relative;
+    width: 105%;
+    height: 2rem;
+    background-color: #ad3646;
+}
+.nav li {
+    display: inline-block;
+    list-style-type: none;
+    font-size: x-large;
+    padding: 5px 70px;
+}
+
+
+.breakfast {
+    position: relative;
+    display: flex;
+    height: 50vh;
+    width: 100%;
+}
+.breakfas {
+    position: absolute;
+    top: 20%;
+    left: 15%;
+}
+.smoothie {
+    position: absolute;
+    top: 20%;
+    right: 15%;
+}
+.bread {
+    position: absolute;
+    top: 20%;
+    right: 40%;
+    left: 40%;
+}
+
+
+.footer {
+    position: relative;
+    height: 30rem;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0PWUpMlEaC9SYA1VuUwOzbF0bCi2wpRnpLg&usqp=CAU");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    color: white;
+}
+.foot {
+    position: absolute;
+    top: 40%;
+    left: 15%;
+}
+.foo {
+    position: absolute;
+    top: 40%;
+    left: 45%;
+}
+.fo {
+    position: absolute;
+    top: 40%;
+    right: 15%;
+}
+
+.last {
+    position: relative;
+}
+.foote {
+    position: absolute;
+    left: 10%;
+}
+.foot1 {
+    position: absolute;
+    right: 10%;
+}
+.foot2 {
+    position: absolute;
+    right: 30%;
+}
+.foot3 {
+    position: absolute;
+    left: 30%;
+}
+.foot4 {
+    position: absolute;
+    right: 45%;
+}
